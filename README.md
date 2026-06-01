@@ -90,7 +90,7 @@ Thus the given Python Program has been exceuted successfully and the output has 
 
 
 
-# Ex4:🧮 Datatypes-Complex Number Creation in Python
+# Ex 4:🧮 Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -120,3 +120,28 @@ print(x.imag)
 
 ## Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
+
+
+
+
+# Ex 5:Datatypes-Read and Print a String in Python
+
+## 🎯 Aim
+To write a Python program to read a string from the user and then print it.
+
+## 🧠 Algorithm
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
+
+## 🧾 Program
+```py
+men_stepped_on_the_moon = input()
+print("Men stepped on the moon:",men_stepped_on_the_moon)
+```
+
+## Output
+<img width="361" height="69" alt="image" src="https://github.com/user-attachments/assets/693123cd-d156-466d-98b3-fbf529100407" />
+
+## Result
+Therfore the given Python program has been executed successfully and the output has been verified.
